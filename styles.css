@@ -91,7 +91,7 @@ hr{
   color: #005689;
   padding-left: 2%;
 }
-.ex{
+.sd{
   font-family: 'Montserrat', sans-serif;
 }
 .ti{
@@ -125,14 +125,27 @@ hr{
   color: white; /* White text color */
 }
 
-.html {width: 20%; background-color: White;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.py {width: 80%; background-color: White;}
+.cp {width: 100%; background-color: White;}
+.css {width: 80%; background-color: White;}
+.html {width: 80%; background-color: White;}
+.bts {width: 60%; background-color: White;}
+.js {width: 20%; background-color: White;}
+.aae {width: 20%; background-color: White;}
+.eng {width: 100%; background-color: White;}
+.urd {width: 100%; background-color: White;}
+.hin {width: 100%; background-color: White;}
 
 .skmg{
   margin-left: 80%;
   margin-bottom: 0;
   margin-top:1%;
   font-size: 15px;
+}
+.ex{
+  margin-left: 70%;
+}
+
+.vg{
+  margin-left: 65%;
 }
