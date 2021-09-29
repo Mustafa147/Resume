@@ -56,6 +56,14 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 
+.bt{
+  margin-bottom: 0;
+}
+
+.pd{
+  padding-bottom: 10%;
+}
+
 /* Middle-Container Only */
 
 hr{
