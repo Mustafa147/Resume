@@ -7,6 +7,9 @@ body{
 
 /* Floating Container */
 
+.hh{
+  margin-top: 0px;
+}
 .float-child {
     float: left;
 }
@@ -18,6 +21,7 @@ body{
 
 /* Top-Container Only */
 .hd{
+  margin-bottom: 0px;
   margin-top: 0;
   padding-left: 5%;
   padding-right: 5%;
