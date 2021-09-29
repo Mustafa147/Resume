@@ -11,6 +11,11 @@ body{
     float: left;
 }
 
+.mg{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 /* Top-Container Only */
 .hd{
   margin-top: 0;
@@ -95,3 +100,27 @@ hr{
 }
 
 /* Bottom-Container Only */
+
+
+/* Skill bar */
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+
+.container {
+  width: 100%; /* Full width */
+  background-color: #005689; /* DarkBlue background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 20%; background-color: White;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 65%; background-color: #f44336;} /* Red */
+.php {width: 60%; background-color: #808080;} /* Dark Grey */
