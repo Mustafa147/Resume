@@ -1,4 +1,4 @@
-body{
+body {
   margin-top: 0;
   margin-left: 0;
   margin-bottom: 0;
@@ -6,99 +6,100 @@ body{
 }
 
 /* Floating Container */
-
-.hh{
+.hh {
   margin-top: 0px;
 }
 
-.mg{
+.mg {
   margin-left: 5%;
   margin-right: 5%;
 }
 
 /* Top-Container Only */
-.hd{
+.hd {
   margin-bottom: 0px;
   margin-top: 0;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 5%;
 }
-.top-container{
+
+.top-container {
+  background-color: #007cb9;
+  margin-right: 78%;
+}
+
+.pi {
+  background-color: #005689;
+}
+
+.blu {
   background-color: #007cb9;
 }
 
-.tc{
-  padding-right: 78%;
-}
-.mc{
-  padding-left: 22%;
-  margin-top: -116%;
-}
-
-.pi{
-  background-color: #005689;
-}
-.blu{
-  background-color: #007cb9;
-}
-
-.sk{
+.sk {
   background-color: #005689;
 }
 
-.so{
+.so {
   background-color: #005689;
 }
 
-.la{
+.la {
   background-color: #005689;
 }
 
-.lw{
+.lw {
   padding-left: 2%;
   padding-top: 5%;
   padding-bottom: 5%
 }
 
-.wh{
+.wh {
   color: white;
   font-family: 'Montserrat', sans-serif;
 }
 
-.bt{
+.bt {
   margin-bottom: 0;
 }
 
-.pd{
+.pd {
   padding-bottom: 10%;
 }
 
 /* Middle-Container Only */
+.middle-container {
+  margin-left: 22%;
+  margin-top: -116%;
+}
 
-hr{
+hr {
   margin-left: 2%;
   margin-right: 2%;
 }
 
-.sum{
+.sum {
   padding-left: 2%;
   padding-right: 2%;
   padding-top: 2%
 }
 
-.bl{
+.bl {
   color: #005689;
   padding-left: 2%;
 }
-.sd{
+
+.sd {
   font-family: 'Montserrat', sans-serif;
 }
-.ti{
+
+.ti {
   padding-left: 30px;
   padding-right: 30px;
 }
-.te{
+
+.te {
   padding-left: 5%;
   margin-bottom: 2%;
   margin-top: -5%;
@@ -106,48 +107,93 @@ hr{
 }
 
 /* Bottom-Container Only */
-
-
 /* Skill bar */
 /* Make sure that padding behaves as expected */
-* {box-sizing:border-box}
+* {
+  box-sizing: border-box
+}
 
 /* Container for skill bars */
-
 .container {
-  width: 100%; /* Full width */
+  width: 100%;
+  /* Full width */
   height: 10px;
-  background-color: #005689; /* DarkBlue background */
+  background-color: #005689;
+  /* DarkBlue background */
 }
 
 .skills {
-  text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 0px; /* Add bottom padding */
-  color: white; /* White text color */
+  text-align: right;
+  /* Right-align text */
+  padding-top: 10px;
+  /* Add top padding */
+  padding-bottom: 0px;
+  /* Add bottom padding */
+  color: white;
+  /* White text color */
 }
 
-.py {width: 80%; background-color: White;}
-.cp {width: 100%; background-color: White;}
-.css {width: 80%; background-color: White;}
-.html {width: 80%; background-color: White;}
-.bts {width: 60%; background-color: White;}
-.js {width: 20%; background-color: White;}
-.aae {width: 20%; background-color: White;}
-.eng {width: 100%; background-color: White;}
-.urd {width: 100%; background-color: White;}
-.hin {width: 100%; background-color: White;}
+.py {
+  width: 80%;
+  background-color: White;
+}
 
-.skmg{
+.cp {
+  width: 100%;
+  background-color: White;
+}
+
+.css {
+  width: 80%;
+  background-color: White;
+}
+
+.html {
+  width: 80%;
+  background-color: White;
+}
+
+.bts {
+  width: 60%;
+  background-color: White;
+}
+
+.js {
+  width: 20%;
+  background-color: White;
+}
+
+.aae {
+  width: 20%;
+  background-color: White;
+}
+
+.eng {
+  width: 100%;
+  background-color: White;
+}
+
+.urd {
+  width: 100%;
+  background-color: White;
+}
+
+.hin {
+  width: 100%;
+  background-color: White;
+}
+
+.skmg {
   margin-left: 82%;
   margin-bottom: 0;
-  margin-top:1%;
+  margin-top: 1%;
   font-size: 15px;
 }
-.ex{
+
+.ex {
   margin-left: 75%;
 }
 
-.vg{
+.vg {
   margin-left: 72%;
 }
