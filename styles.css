@@ -15,7 +15,6 @@ body {
   margin-right: 5%;
 }
 
-
 /* Top-Container Only */
 .hd {
   margin-bottom: 0px;
@@ -199,9 +198,10 @@ hr {
   margin-left: 72%;
 }
 
-.s{
-  line-height : 2 ;
+.s {
+  line-height: 2;
 }
-.l{
+
+.l {
   line-height: 1.5;
 }
